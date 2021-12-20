@@ -28,8 +28,8 @@ Please plot and visualize the answers to the below questions.
  ### Summary of actionable findings to improve advertising campaign success:
 
    - The most successful advertising campaign was the most recent campaign (column name: Response), and was particularly successful in Mexico (>60% acceptance rate!)</br>
-      -> Suggested action: Conduct future advertising campaigns using the same model recently implemented in Mexico.
+      - Suggested action: Conduct future advertising campaigns using the same model recently implemented in Mexico.
    - Advertising campaign acceptance is positively correlated with income and negatively correlated with having kids/teens</br>
-       -> Suggested action: Create two streams of targeted advertising campaigns, one aimed at high-income individuals without kids/teens and another aimed at lower-income individuals with kids/teens
+       - Suggested action: Create two streams of targeted advertising campaigns, one aimed at high-income individuals without kids/teens and another aimed at lower-income individuals with kids/teens</br>
    - The most successful products are wines and meats (i.e. the average customer spent the most on these items)
-       -> Suggested action: Focus advertising campaigns on boosting sales of the less popular items
+       - Suggested action: Focus advertising campaigns on boosting sales of the less popular items
